@@ -14,6 +14,8 @@ Then clone the repo and follow [levels.v](levels.v).
 - Formally verified gameplay, guaranteed bug free
 - Thought-provoking themes and level design
 - Play in your favorite Rocq editor 
-(So you advisor can't tell you are gaming)
+(So your advisor and colleagues can't tell you are gaming!)
+
+---
 
 For PLSE ART/GAME JAM 2024
