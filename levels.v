@@ -31,6 +31,11 @@ Goal ("devil" <-- 16 --> "angel").
   There.
 Qed.
 
+Goal ("and" <-- 42 --> "orange").
+  Next "orange" 36.
+  There.
+Qed.
+
 (* Prefix / Suffix : pay
    # added or removed letters
    to add/remove a prefix/suffix

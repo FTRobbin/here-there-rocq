@@ -28,7 +28,8 @@ Ltac There :=
   try (
       match goal with
       | |- (Path ?s ?t ?l) =>
-          Next t l
+          Next t l;
+          apply Win
       end);
   match goal with
   | |- (Path ?s ?s ?l) =>
